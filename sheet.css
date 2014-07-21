@@ -1,0 +1,1408 @@
+/* Enter the sheet's name (pls incl. extension) */ /* Enter what you think the height/width of a square tile is: *//* Enter the number of tile rows in the sheet: *//* Enter the number of tile columns in the sheet: *//* top:  0  */
+/* left:  0  */
+/* bottom:  319  */
+/* right:  223  */
+/* supposed size:  16  */
+/* leftover lines:  0  */
+/* leftovers vertical:  0  */
+/* leftovers horizontal:  0  */
+name > .pink {
+	background: url(nuts&milk.png) 0px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .pink1 {
+	background: url(nuts&milk.png) 16px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .pink2 {
+	background: url(nuts&milk.png) 32px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .pink3 {
+	background: url(nuts&milk.png) 48px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .pink4 {
+	background: url(nuts&milk.png) 64px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .pink5 {
+	background: url(nuts&milk.png) 80px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p6 {
+	background: url(nuts&milk.png) 96px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p7 {
+	background: url(nuts&milk.png) 112px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p8 {
+	background: url(nuts&milk.png) 128px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p9 {
+	background: url(nuts&milk.png) 144px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p10 {
+	background: url(nuts&milk.png) 160px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .halp {
+	background: url(nuts&milk.png) 176px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .h1 {
+	background: url(nuts&milk.png) 192px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .h2 {
+	background: url(nuts&milk.png) 208px 0px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p11 {
+	background: url(nuts&milk.png) 0px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p12 {
+	background: url(nuts&milk.png) 16px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p13 {
+	background: url(nuts&milk.png) 32px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p14 {
+	background: url(nuts&milk.png) 48px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p15 {
+	background: url(nuts&milk.png) 64px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p16 {
+	background: url(nuts&milk.png) 80px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p17 {
+	background: url(nuts&milk.png) 96px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p18 {
+	background: url(nuts&milk.png) 112px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p19 {
+	background: url(nuts&milk.png) 128px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p20 {
+	background: url(nuts&milk.png) 144px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .h0 {
+	background: url(nuts&milk.png) 160px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .h1 {
+	background: url(nuts&milk.png) 176px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .triangle {
+	background: url(nuts&milk.png) 192px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .t2 {
+	background: url(nuts&milk.png) 208px 16px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .q {
+	background: url(nuts&milk.png) 0px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .w {
+	background: url(nuts&milk.png) 16px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 32px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .r {
+	background: url(nuts&milk.png) 48px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .t {
+	background: url(nuts&milk.png) 64px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .e {
+	background: url(nuts&milk.png) 80px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .y {
+	background: url(nuts&milk.png) 96px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .u {
+	background: url(nuts&milk.png) 112px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .i {
+	background: url(nuts&milk.png) 128px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .o {
+	background: url(nuts&milk.png) 144px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .p {
+	background: url(nuts&milk.png) 160px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .a {
+	background: url(nuts&milk.png) 176px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .z {
+	background: url(nuts&milk.png) 192px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .x {
+	background: url(nuts&milk.png) 208px 32px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .c {
+	background: url(nuts&milk.png) 0px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .v {
+	background: url(nuts&milk.png) 16px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .v {
+	background: url(nuts&milk.png) 32px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .v {
+	background: url(nuts&milk.png) 48px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .v {
+	background: url(nuts&milk.png) 64px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .v {
+	background: url(nuts&milk.png) 80px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .v {
+	background: url(nuts&milk.png) 96px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .v {
+	background: url(nuts&milk.png) 112px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 128px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .G {
+	background: url(nuts&milk.png) 144px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 160px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .H {
+	background: url(nuts&milk.png) 176px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .Q {
+	background: url(nuts&milk.png) 192px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .W {
+	background: url(nuts&milk.png) 208px 48px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .E {
+	background: url(nuts&milk.png) 0px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .R {
+	background: url(nuts&milk.png) 16px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 32px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .T {
+	background: url(nuts&milk.png) 48px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .Y {
+	background: url(nuts&milk.png) 64px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .U {
+	background: url(nuts&milk.png) 80px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .I {
+	background: url(nuts&milk.png) 96px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .P {
+	background: url(nuts&milk.png) 112px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .[ {
+	background: url(nuts&milk.png) 128px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .1 {
+	background: url(nuts&milk.png) 144px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .2 {
+	background: url(nuts&milk.png) 160px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 176px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .4 {
+	background: url(nuts&milk.png) 192px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .5 {
+	background: url(nuts&milk.png) 208px 64px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 0px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 16px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 32px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 48px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 64px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 80px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 96px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 112px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 128px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 144px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 160px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 176px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 192px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 208px 80px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 0px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 16px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 32px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 48px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 64px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 80px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 96px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 112px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 128px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 144px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 160px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 176px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 192px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 208px 96px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 0px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 16px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 32px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 48px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 64px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 80px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 96px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 112px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 128px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 144px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 160px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 176px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 192px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 208px 112px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 0px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 16px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 32px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 48px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 64px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 80px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .66 {
+	background: url(nuts&milk.png) 96px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 112px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 128px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 144px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 160px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 176px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 192px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 208px 128px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 0px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 16px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 32px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 48px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 64px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 80px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 96px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 112px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 128px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 144px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 160px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 176px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 192px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 208px 144px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 0px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 16px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .66 {
+	background: url(nuts&milk.png) 32px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 48px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 64px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 80px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 96px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 112px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 128px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .66 {
+	background: url(nuts&milk.png) 144px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 160px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 176px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 192px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .66 {
+	background: url(nuts&milk.png) 208px 160px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .66 {
+	background: url(nuts&milk.png) 0px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 16px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 32px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 48px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 64px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 80px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 96px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 112px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 128px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 144px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 160px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 176px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 192px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 208px 176px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .66 {
+	background: url(nuts&milk.png) 0px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 16px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 32px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 48px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 64px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 80px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 96px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 112px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 128px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 144px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 160px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .66 {
+	background: url(nuts&milk.png) 176px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 192px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 208px 192px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 0px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 16px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 32px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 48px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 64px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 80px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 96px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 112px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 128px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 144px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 160px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 176px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 192px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .374 {
+	background: url(nuts&milk.png) 208px 208px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .345 {
+	background: url(nuts&milk.png) 0px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .345 {
+	background: url(nuts&milk.png) 16px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .45 {
+	background: url(nuts&milk.png) 32px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .5 {
+	background: url(nuts&milk.png) 48px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .5 {
+	background: url(nuts&milk.png) 64px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .5 {
+	background: url(nuts&milk.png) 80px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .5 {
+	background: url(nuts&milk.png) 96px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .4 {
+	background: url(nuts&milk.png) 112px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .4 {
+	background: url(nuts&milk.png) 128px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .5 {
+	background: url(nuts&milk.png) 144px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6 {
+	background: url(nuts&milk.png) 160px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .6\ {
+	background: url(nuts&milk.png) 176px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .45 {
+	background: url(nuts&milk.png) 192px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .SDFG {
+	background: url(nuts&milk.png) 208px 224px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .SDFG {
+	background: url(nuts&milk.png) 0px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .SDFG {
+	background: url(nuts&milk.png) 16px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .SDFG {
+	background: url(nuts&milk.png) 32px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .SDFG {
+	background: url(nuts&milk.png) 48px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .SDFG {
+	background: url(nuts&milk.png) 64px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 80px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 96px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .GS {
+	background: url(nuts&milk.png) 112px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .G {
+	background: url(nuts&milk.png) 128px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 144px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 160px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 176px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .23 {
+	background: url(nuts&milk.png) 192px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 208px 240px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 0px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 16px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 32px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 48px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 64px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 80px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 96px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 112px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 128px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 144px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 160px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 176px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 192px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 208px 256px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 0px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 16px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .33 {
+	background: url(nuts&milk.png) 32px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 48px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 64px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 80px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 96px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 112px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 128px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .33 {
+	background: url(nuts&milk.png) 144px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 160px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 176px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 192px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 208px 272px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 0px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 16px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 32px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 48px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 64px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 80px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 96px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 112px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 128px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 144px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 160px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 176px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 192px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 208px 288px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 0px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 16px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 32px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 48px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 64px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 80px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 96px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > . {
+	background: url(nuts&milk.png) 112px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 128px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .3 {
+	background: url(nuts&milk.png) 144px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .2 {
+	background: url(nuts&milk.png) 160px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .2 {
+	background: url(nuts&milk.png) 176px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .2 {
+	background: url(nuts&milk.png) 192px 304px;
+	width: 16 ;
+	height: 16 ;
+}
+name > .23 {
+	background: url(nuts&milk.png) 208px 304px;
+	width: 16 ;
+	height: 16 ;
+}
