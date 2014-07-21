@@ -1,4 +1,6 @@
 from PIL import Image
+import time
+import psutil
 
 
 # just like take in how many there are horizontally and veritcally then
@@ -100,11 +102,17 @@ for i in xrange(0, supposedRows):
 
         firstThing = sheet.crop( (leftEdge, topEdge, leftEdge+(supposedSize), topEdge+(supposedSize)) )
         firstThing.show()
+        time.sleep(1)
+        for proc in psutil.process_iter():
+            if proc.name == "display":
+                proc.kill()
 
-        lilName = raw_input("name > ")
-        print "."+lilName, "{"
-        print "\tbackground: url("+filename+") "+str(leftEdge)+"px "+str(topEdge)+"px;"
-        print "\twidth:", supposedSize, ";"
-        print "\theight:", supposedSize, ";"
-        print "}"
+        lilName = raw_input()
+
+        if lilName != "":
+            print "."+lilName, "{"
+            print "\tbackground: url('"+filename+"') "+str(leftEdge)+"px "+str(topEdge)+"px;"
+            print "\twidth:"+ str(supposedSize) +";"
+            print "\theight:"+ str(supposedSize) +";"
+            print "}"
 

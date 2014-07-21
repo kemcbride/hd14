@@ -1,0 +1,1268 @@
+/* Enter the sheet's name (pls incl. extension) */ /* Enter what you think the height/width of a square tile is: *//* Enter the number of tile rows in the sheet: *//* Enter the number of tile columns in the sheet: *//* top:  24  */
+/* left:  8  */
+/* bottom:  1679  */
+/* right:  639  */
+/* supposed size:  56  */
+/* leftover lines:  88  */
+/* leftovers vertical:  8  */
+/* leftovers horizontal:  8  */
+ .chikorita {
+	background: url('gspoke.png') 8px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .bayleef {
+	background: url('gspoke.png') 72px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .meganium {
+	background: url('gspoke.png') 136px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .cyndaquil {
+	background: url('gspoke.png') 200px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .quilava {
+	background: url('gspoke.png') 264px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .typhlosion {
+	background: url('gspoke.png') 328px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .totodile {
+	background: url('gspoke.png') 392px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .croconaw {
+	background: url('gspoke.png') 456px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .feraligatr {
+	background: url('gspoke.png') 520px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .pidgey {
+	background: url('gspoke.png') 584px 24px;
+	width: 56 ;
+	height: 56 ;
+}
+ .pidgeotto {
+	background: url('gspoke.png') 8px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .pidgeot {
+	background: url('gspoke.png') 72px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .spearow {
+	background: url('gspoke.png') 136px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .fearow {
+	background: url('gspoke.png') 200px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .hoothoot {
+	background: url('gspoke.png') 264px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .noctowl {
+	background: url('gspoke.png') 328px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .rattata {
+	background: url('gspoke.png') 392px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .raticate {
+	background: url('gspoke.png') 456px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .sentret {
+	background: url('gspoke.png') 520px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .furret {
+	background: url('gspoke.png') 584px 88px;
+	width: 56 ;
+	height: 56 ;
+}
+ .pichu {
+	background: url('gspoke.png') 8px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .pikachu {
+	background: url('gspoke.png') 72px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .raichu {
+	background: url('gspoke.png') 136px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .caterpie {
+	background: url('gspoke.png') 200px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .metapod {
+	background: url('gspoke.png') 264px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .butterfree {
+	background: url('gspoke.png') 328px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .weedle {
+	background: url('gspoke.png') 392px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .kakuna {
+	background: url('gspoke.png') 456px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .beedrill {
+	background: url('gspoke.png') 520px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ledyba {
+	background: url('gspoke.png') 584px 152px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ledian {
+	background: url('gspoke.png') 8px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .spinarak {
+	background: url('gspoke.png') 72px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ariados {
+	background: url('gspoke.png') 136px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .geodude {
+	background: url('gspoke.png') 200px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .graveler {
+	background: url('gspoke.png') 264px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .golem {
+	background: url('gspoke.png') 328px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .zubat {
+	background: url('gspoke.png') 392px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .golbat {
+	background: url('gspoke.png') 456px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .crobat {
+	background: url('gspoke.png') 520px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .cleffa {
+	background: url('gspoke.png') 584px 216px;
+	width: 56 ;
+	height: 56 ;
+}
+ .clefairy {
+	background: url('gspoke.png') 8px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .clefable {
+	background: url('gspoke.png') 72px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .igglybuff {
+	background: url('gspoke.png') 136px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .jigglypuff {
+	background: url('gspoke.png') 200px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .wigglytuff {
+	background: url('gspoke.png') 264px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .togepi {
+	background: url('gspoke.png') 328px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .togetic {
+	background: url('gspoke.png') 392px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .sandshrew {
+	background: url('gspoke.png') 456px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .sandslash {
+	background: url('gspoke.png') 520px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ekans {
+	background: url('gspoke.png') 584px 280px;
+	width: 56 ;
+	height: 56 ;
+}
+ .arbok {
+	background: url('gspoke.png') 8px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .dunsparce {
+	background: url('gspoke.png') 72px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .mareep {
+	background: url('gspoke.png') 136px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .flaafy {
+	background: url('gspoke.png') 200px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ampharos {
+	background: url('gspoke.png') 264px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .wooper {
+	background: url('gspoke.png') 328px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .quagsire {
+	background: url('gspoke.png') 392px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .gastly {
+	background: url('gspoke.png') 456px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .haunter {
+	background: url('gspoke.png') 520px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .gengar {
+	background: url('gspoke.png') 584px 344px;
+	width: 56 ;
+	height: 56 ;
+}
+ .unown-invalid {
+	background: url('gspoke.png') 8px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .onix {
+	background: url('gspoke.png') 72px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .steelix {
+	background: url('gspoke.png') 136px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .bellsprout {
+	background: url('gspoke.png') 200px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .weepinbell {
+	background: url('gspoke.png') 264px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .victreebel {
+	background: url('gspoke.png') 328px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .hoppip {
+	background: url('gspoke.png') 392px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .skiploom {
+	background: url('gspoke.png') 456px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .jumpluff {
+	background: url('gspoke.png') 520px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .paras {
+	background: url('gspoke.png') 584px 408px;
+	width: 56 ;
+	height: 56 ;
+}
+ .parasect {
+	background: url('gspoke.png') 8px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .poliwag {
+	background: url('gspoke.png') 72px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .poliwhirl {
+	background: url('gspoke.png') 136px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .poliwrath {
+	background: url('gspoke.png') 200px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .politoed {
+	background: url('gspoke.png') 264px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .magikarp {
+	background: url('gspoke.png') 328px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .gyarados {
+	background: url('gspoke.png') 392px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .goldeen {
+	background: url('gspoke.png') 456px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .seaking {
+	background: url('gspoke.png') 520px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .slowpoke {
+	background: url('gspoke.png') 584px 472px;
+	width: 56 ;
+	height: 56 ;
+}
+ .slowbro {
+	background: url('gspoke.png') 8px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .slowking {
+	background: url('gspoke.png') 72px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .oddish {
+	background: url('gspoke.png') 136px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .gloom {
+	background: url('gspoke.png') 200px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .vileplume {
+	background: url('gspoke.png') 264px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .bellossom {
+	background: url('gspoke.png') 328px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .drowzee {
+	background: url('gspoke.png') 392px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .hypno {
+	background: url('gspoke.png') 456px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .abra {
+	background: url('gspoke.png') 520px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .kadabra {
+	background: url('gspoke.png') 584px 536px;
+	width: 56 ;
+	height: 56 ;
+}
+ .alakazam {
+	background: url('gspoke.png') 8px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ditto {
+	background: url('gspoke.png') 72px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .pineco {
+	background: url('gspoke.png') 136px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .forretress {
+	background: url('gspoke.png') 200px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .nidoran-female {
+	background: url('gspoke.png') 264px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .nidorina {
+	background: url('gspoke.png') 328px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .nidoqueen {
+	background: url('gspoke.png') 392px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .nidoran-male {
+	background: url('gspoke.png') 456px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .nidorino {
+	background: url('gspoke.png') 520px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .nidoking {
+	background: url('gspoke.png') 584px 600px;
+	width: 56 ;
+	height: 56 ;
+}
+ .yanma {
+	background: url('gspoke.png') 8px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .sunkern {
+	background: url('gspoke.png') 72px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .sunflora {
+	background: url('gspoke.png') 136px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .exeggcute {
+	background: url('gspoke.png') 200px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .exeggutor {
+	background: url('gspoke.png') 264px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .sudowoodo {
+	background: url('gspoke.png') 328px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .wobbuffet {
+	background: url('gspoke.png') 392px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .venonat {
+	background: url('gspoke.png') 456px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .venomoth {
+	background: url('gspoke.png') 520px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .scyther {
+	background: url('gspoke.png') 584px 664px;
+	width: 56 ;
+	height: 56 ;
+}
+ .scizor {
+	background: url('gspoke.png') 8px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .pinsir {
+	background: url('gspoke.png') 72px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .heracross {
+	background: url('gspoke.png') 136px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .koffing {
+	background: url('gspoke.png') 200px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .weezing {
+	background: url('gspoke.png') 264px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .grimer {
+	background: url('gspoke.png') 328px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .muk {
+	background: url('gspoke.png') 392px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .magnemite {
+	background: url('gspoke.png') 456px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .magneton {
+	background: url('gspoke.png') 520px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .voltorb {
+	background: url('gspoke.png') 584px 728px;
+	width: 56 ;
+	height: 56 ;
+}
+ .electrode {
+	background: url('gspoke.png') 8px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .aipom {
+	background: url('gspoke.png') 72px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .snubbull {
+	background: url('gspoke.png') 136px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .granbull {
+	background: url('gspoke.png') 200px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .vulpix {
+	background: url('gspoke.png') 264px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ninetales {
+	background: url('gspoke.png') 328px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .growlithe {
+	background: url('gspoke.png') 392px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .arcanine {
+	background: url('gspoke.png') 456px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .stantler {
+	background: url('gspoke.png') 520px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .marill {
+	background: url('gspoke.png') 584px 792px;
+	width: 56 ;
+	height: 56 ;
+}
+ .azumarill {
+	background: url('gspoke.png') 8px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .diglett {
+	background: url('gspoke.png') 72px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .dugtrio {
+	background: url('gspoke.png') 136px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .mankey {
+	background: url('gspoke.png') 200px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .primeape {
+	background: url('gspoke.png') 264px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .meowth {
+	background: url('gspoke.png') 328px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .persian {
+	background: url('gspoke.png') 392px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .psyduck {
+	background: url('gspoke.png') 456px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .golduck {
+	background: url('gspoke.png') 520px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .machop {
+	background: url('gspoke.png') 584px 856px;
+	width: 56 ;
+	height: 56 ;
+}
+ .machoke {
+	background: url('gspoke.png') 8px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .machamp {
+	background: url('gspoke.png') 72px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .tyrogue {
+	background: url('gspoke.png') 136px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .hitmonlee {
+	background: url('gspoke.png') 200px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .hitmonchan {
+	background: url('gspoke.png') 264px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .hitmontop {
+	background: url('gspoke.png') 328px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .girafarig {
+	background: url('gspoke.png') 392px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .tauros {
+	background: url('gspoke.png') 456px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .miltank {
+	background: url('gspoke.png') 520px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .magby {
+	background: url('gspoke.png') 584px 920px;
+	width: 56 ;
+	height: 56 ;
+}
+ .magmar {
+	background: url('gspoke.png') 8px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .smoochum {
+	background: url('gspoke.png') 72px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .jynx {
+	background: url('gspoke.png') 136px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .jynx {
+	background: url('gspoke.png') 200px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .elekid {
+	background: url('gspoke.png') 264px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .electabuzz {
+	background: url('gspoke.png') 328px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .mr-mime {
+	background: url('gspoke.png') 392px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .smeargle {
+	background: url('gspoke.png') 456px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .farfetchd {
+	background: url('gspoke.png') 520px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .natu {
+	background: url('gspoke.png') 584px 984px;
+	width: 56 ;
+	height: 56 ;
+}
+ .xatu {
+	background: url('gspoke.png') 8px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .qwilfish {
+	background: url('gspoke.png') 72px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .tentacool {
+	background: url('gspoke.png') 136px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .tentacruel {
+	background: url('gspoke.png') 200px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .krabby {
+	background: url('gspoke.png') 264px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .kingler {
+	background: url('gspoke.png') 328px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .shuckle {
+	background: url('gspoke.png') 392px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .staryu {
+	background: url('gspoke.png') 456px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .starmie {
+	background: url('gspoke.png') 520px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .shellder {
+	background: url('gspoke.png') 584px 1048px;
+	width: 56 ;
+	height: 56 ;
+}
+ .cloyster {
+	background: url('gspoke.png') 8px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .corsola {
+	background: url('gspoke.png') 72px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .remoraid {
+	background: url('gspoke.png') 136px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .octillery {
+	background: url('gspoke.png') 200px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .chinchou {
+	background: url('gspoke.png') 264px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .lanturn {
+	background: url('gspoke.png') 328px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .seel {
+	background: url('gspoke.png') 392px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .dewgong {
+	background: url('gspoke.png') 456px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .lickitung {
+	background: url('gspoke.png') 520px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .tangela {
+	background: url('gspoke.png') 584px 1112px;
+	width: 56 ;
+	height: 56 ;
+}
+ .eevee {
+	background: url('gspoke.png') 8px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .vaporeon {
+	background: url('gspoke.png') 72px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .jolteon {
+	background: url('gspoke.png') 136px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .flareon {
+	background: url('gspoke.png') 200px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .espeon {
+	background: url('gspoke.png') 264px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .umbreon {
+	background: url('gspoke.png') 328px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .horsea {
+	background: url('gspoke.png') 392px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .seadra {
+	background: url('gspoke.png') 456px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .kingdra {
+	background: url('gspoke.png') 520px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .gligar {
+	background: url('gspoke.png') 584px 1176px;
+	width: 56 ;
+	height: 56 ;
+}
+ .delibird {
+	background: url('gspoke.png') 8px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .swinub {
+	background: url('gspoke.png') 72px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .piloswine {
+	background: url('gspoke.png') 136px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .teddiursa {
+	background: url('gspoke.png') 200px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ursaring {
+	background: url('gspoke.png') 264px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .phanpy {
+	background: url('gspoke.png') 328px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .donphan {
+	background: url('gspoke.png') 392px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .mantine {
+	background: url('gspoke.png') 456px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .skarmory {
+	background: url('gspoke.png') 520px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .doduo {
+	background: url('gspoke.png') 584px 1240px;
+	width: 56 ;
+	height: 56 ;
+}
+ .dodrio {
+	background: url('gspoke.png') 8px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ponyta {
+	background: url('gspoke.png') 72px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .rapidash {
+	background: url('gspoke.png') 136px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .cubone {
+	background: url('gspoke.png') 200px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .marowak {
+	background: url('gspoke.png') 264px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .kangaskhan {
+	background: url('gspoke.png') 328px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .rhyhorn {
+	background: url('gspoke.png') 392px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .rhydon {
+	background: url('gspoke.png') 456px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .murkrow {
+	background: url('gspoke.png') 520px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .houndour {
+	background: url('gspoke.png') 584px 1304px;
+	width: 56 ;
+	height: 56 ;
+}
+ .houndoom {
+	background: url('gspoke.png') 8px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .slugma {
+	background: url('gspoke.png') 72px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .magcargo {
+	background: url('gspoke.png') 136px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .sneasel {
+	background: url('gspoke.png') 200px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .misdreavus {
+	background: url('gspoke.png') 264px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .porygon {
+	background: url('gspoke.png') 328px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .porygon2 {
+	background: url('gspoke.png') 392px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .chansey {
+	background: url('gspoke.png') 456px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .blissey {
+	background: url('gspoke.png') 520px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .lapras {
+	background: url('gspoke.png') 584px 1368px;
+	width: 56 ;
+	height: 56 ;
+}
+ .omanyte {
+	background: url('gspoke.png') 8px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .omastar {
+	background: url('gspoke.png') 72px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .kabuto {
+	background: url('gspoke.png') 136px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .kabutops {
+	background: url('gspoke.png') 200px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .aerodactyl {
+	background: url('gspoke.png') 264px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .snorlax {
+	background: url('gspoke.png') 328px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .bulbasaur {
+	background: url('gspoke.png') 392px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ivysaur {
+	background: url('gspoke.png') 456px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .venusaur {
+	background: url('gspoke.png') 520px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .charmander {
+	background: url('gspoke.png') 584px 1432px;
+	width: 56 ;
+	height: 56 ;
+}
+ .charmeleon {
+	background: url('gspoke.png') 8px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .charizard {
+	background: url('gspoke.png') 72px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .squirtle {
+	background: url('gspoke.png') 136px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .wartortle {
+	background: url('gspoke.png') 200px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .blastoise {
+	background: url('gspoke.png') 264px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .articuno {
+	background: url('gspoke.png') 328px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .zapdos {
+	background: url('gspoke.png') 392px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .moltres {
+	background: url('gspoke.png') 456px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .raikou {
+	background: url('gspoke.png') 520px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .entei {
+	background: url('gspoke.png') 584px 1496px;
+	width: 56 ;
+	height: 56 ;
+}
+ .suicune {
+	background: url('gspoke.png') 8px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .dratini {
+	background: url('gspoke.png') 72px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .dragonair {
+	background: url('gspoke.png') 136px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .dragonite {
+	background: url('gspoke.png') 200px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .larvitar {
+	background: url('gspoke.png') 264px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .pupitar {
+	background: url('gspoke.png') 328px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .tyranitar {
+	background: url('gspoke.png') 392px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .lugia {
+	background: url('gspoke.png') 456px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .ho-oh {
+	background: url('gspoke.png') 520px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .mewtwo {
+	background: url('gspoke.png') 584px 1560px;
+	width: 56 ;
+	height: 56 ;
+}
+ .mew {
+	background: url('gspoke.png') 8px 1624px;
+	width: 56 ;
+	height: 56 ;
+}
+ .celebi {
+	background: url('gspoke.png') 72px 1624px;
+	width: 56 ;
+	height: 56 ;
+}
